@@ -259,8 +259,8 @@ indicados na estrutura, caso esses sejam os nomes usados no repositório.
 
 ## 🎥 Demonstração
 
-**Vídeo de apresentação:** inserir o link do vídeo quando estiver
-disponível.
+**Vídeo de apresentação:** https://www.youtube.com/watch?v=XKCIl90Jvgg
+
 
 ------------------------------------------------------------------------
 

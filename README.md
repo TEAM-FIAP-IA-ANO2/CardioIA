@@ -253,9 +253,9 @@ indicados na estrutura, caso esses sejam os nomes usados no repositório.
 -   **Felipe Almeida** --- GitHub:
     [@Febdev27](https://github.com/Febdev27) --- **RM:** preencher
 -   **Vinícius Burchert Vilas Boas** --- GitHub:
-    [@Vburchert](https://github.com/Vburchert) --- **RM:** preencher
+    [@Vburchert](https://github.com/Vburchert) --- **RM:** 565395
 -   **Renan Wesler Nunes** --- GitHub:
-    [@W-Nunes](https://github.com/W-Nunes) --- **RM:** preencher
+    [@W-Nunes](https://github.com/W-Nunes) --- **RM:** 562839
 
 ## 🎥 Demonstração
 

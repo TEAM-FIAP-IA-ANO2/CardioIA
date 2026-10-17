@@ -1,0 +1,9 @@
+{
+  "acuracia": 1.0,
+  "precisao": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "roc_auc": 1.0,
+  "modelo": "Random Forest",
+  "limiar_classificacao_binaria": 0.5
+}

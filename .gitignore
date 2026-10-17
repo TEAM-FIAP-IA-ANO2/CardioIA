@@ -1,0 +1,29 @@
+.env
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+.pytest_cache/
+**/.pytest_cache/
+*.py[cod]
+*.db
+*.db-shm
+*.db-wal
+.ipynb_checkpoints/
+.DS_Store
+
+# Ambientes e arquivos locais
+**/.env
+**/.env.*
+!**/.env.example
+**/venv/
+**/.mypy_cache/
+**/.ruff_cache/
+
+# Banco de dados e temporarios
+*.sqlite
+*.sqlite3
+*.log
+
+# Pacote compactado dos artefatos, mantido localmente
+/artefatos_modelo_risco.zip

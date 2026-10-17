@@ -1,0 +1,18 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+historico_agentes.db
+
+# Banco de dados e arquivos temporarios do SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# Ambientes virtuais
+venv/
+
+# Arquivos temporarios e caches
+*.py[cod]
+.pytest_cache/
